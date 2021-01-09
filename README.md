@@ -12,7 +12,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 
-
+- 🦁 [Likelion-Busan for workers 3rd]: Sep 2020 - Dec 2020. 🏆Best Service Team <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>
 
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
