@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning <strong>Python</strong>, <strong>R</strong>, <strong>MySQL</strong> and <strong>Tebleau</strong> for <strong>Data Analysis</strong>.
 - 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
-- ✅ commit at least once a day!
+- ✅ Commit! at least once a day!
 
 <br>
 
@@ -12,7 +12,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 
-- 🦁 [Likelion-Busan for workers 3rd]: Sep 2020 - Dec 2020. 🏆Best Service Team <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>
+- 🦁 [Likelion-Busan for workers 3rd]: Sep - Dec 2020. 🏆Best Service Team! <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>
 
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
