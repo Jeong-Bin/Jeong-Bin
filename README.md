@@ -1,15 +1,20 @@
-### Hi there 👋
+### Welcome! 👋
 
-- 🌱 I’m currently learning Python, R, MySQL and Tebleau for Data Analysis.
+- 🌱 I’m currently learning <strong>Python</strong>, <strong>R</strong>, <strong>MySQL</strong> and <strong>Tebleau</strong> for <strong>Data Analysis</strong>.
+- 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
+- ✅ commit at least once a day!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=algolia&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
+
+
+
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
