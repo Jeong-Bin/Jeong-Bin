@@ -4,11 +4,11 @@
 - 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
 - ✅ commit at least once a day!
 
-<!--
+<br>
+
 - 데이터 분석을 위해 Python, R, MySQL, Tebleau를 공부하고 있습니다!
-- HackerRank랑 leetCode 문제도 풀고있습니다.
-- 일단 적어도 하루에 한 번이라도 커밋하는게 목표입니다!
--->
+
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 
