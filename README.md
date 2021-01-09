@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning Python, R, MySQL and Tebleau for Data Analysis.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&show_icons=true)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=algolia&show_icons=true)
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
