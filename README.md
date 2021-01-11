@@ -1,12 +1,12 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning <strong>Python</strong>, <strong>R</strong>, <strong>MySQL</strong> and <strong>Tebleau</strong> for <strong>Data Analysis</strong>.
+- 🌱 I’m currently learning <strong>Python</strong>, <strong>R</strong>, <strong>MySQL</strong> and <strong>Tableau</strong> for <strong>Data Analysis</strong>.
 - 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
 - ✅ Commit! at least once a day!
 
 <br>
 
-- 데이터 분석을 위해 Python, R, MySQL, Tebleau를 공부하고 있습니다!
+- 데이터 분석을 위해 Python, R, MySQL, Tableau를 공부하고 있습니다!
 
 <br>
 
