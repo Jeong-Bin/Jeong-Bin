@@ -7,7 +7,7 @@
 <br>
 
 - 데이터 분석가가 되기 위해 Python, R, MySQL, Tableau를 공부하고 있습니다!
-- 현재 ADsP 자격증을 공부하고 있습니다.
+- ADsP 자격증 공부 중...
 
 <br>
 
