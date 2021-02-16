@@ -8,7 +8,6 @@
 <br>
 🎫certificate
 - GAIQ(Google Analytics Individual Qualification)
-- ADsP 자격증 준비 중...(~3/13)
 
 
 <br>
