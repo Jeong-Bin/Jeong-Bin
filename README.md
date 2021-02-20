@@ -6,7 +6,7 @@
 -->
 
 <br>
-🎫certificate
+🎫certificate <br>
 - GAIQ(Google Analytics Individual Qualification)
 
 
