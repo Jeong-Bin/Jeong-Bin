@@ -7,7 +7,7 @@
 
 <br>
 🎫certificate <br>
-
+- ADsP(Advanced Data Analytics Semi-Professional)
 
 <br>
 
