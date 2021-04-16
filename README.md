@@ -5,17 +5,16 @@
 - 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
 -->
 
-<br>
-🎫certificate <br>
+
+🎫certificate
 - ADsP(Advanced Data Analytics Semi-Professional)
 - SQLD(SQL Developer)
 
-<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 
 - 🦁 [Likelion-Busan for workers 3rd]: Sep - Dec 2020. 🏆Best Service Team! <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
