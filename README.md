@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning <strong>Python</strong>, <strong>R</strong>, <strong>MySQL</strong> and <strong>Tableau</strong> for <strong>Data Analysis</strong>.
+- 🌱 <strong>Python</strong>, <strong>SQL</strong>, <strong>Elasticsearch</strong>
 <!--
 - 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
 -->
