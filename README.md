@@ -7,6 +7,7 @@
 
 
 🎫certificate
+- Engineer Information Processing
 - ADsP(Advanced Data Analytics Semi-Professional)
 - SQLD(SQL Developer)
 
