@@ -1,15 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 <strong>Python</strong>, <strong>SQL</strong>, <strong>Elasticsearch</strong>
-<!--
-- 🌱 I'm learning MySQL at the HackerRank & leetCode. (HackerRank : <a href="https://www.hackerrank.com/hjb3880?hr_r=1">hjb3880</a>, leetCode : <a href="https://leetcode.com/Jeong-Bin/">Jeong-Bin</a>)
--->
-
-
-🎫certificate
-- Engineer Information Processing
-- ADsP(Advanced Data Analytics Semi-Professional)
-- SQLD(SQL Developer)
+📑 <a href="https://www.notion.so/Resume-ac983b822ed249f48fd0569235c39efa">Resume</a>
 
 
 <br>
