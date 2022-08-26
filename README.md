@@ -3,9 +3,6 @@
 📑 <a href="https://www.notion.so/Resume-ac983b822ed249f48fd0569235c39efa">Resume</a>
 
 
-<br>
-🦁 [Likelion-Busan for workers 3rd]: Sep - Dec 2020. 🏆Best Service Team! <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
 <!--
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
