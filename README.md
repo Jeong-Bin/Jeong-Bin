@@ -1,10 +1,10 @@
 ### Welcome! 👋
 
-📑 <a href="https://www.notion.so/Resume-ac983b822ed249f48fd0569235c39efa">Resume</a>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
+📑 <a href="https://www.notion.so/Resume-ac983b822ed249f48fd0569235c39efa">Resume(Notion)</a>
+☑ <a href="https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%ED%99%8D-48729920a/">Linkd_In</a>
 <!--
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Bin&theme=solarized-light&show_icons=true)
+
 **Jeong-Bin/Jeong-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
