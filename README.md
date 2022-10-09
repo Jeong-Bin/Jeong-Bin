@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-📑 <a href="https://www.notion.so/Resume-ac983b822ed249f48fd0569235c39efa">Resume(Notion)</a>
+📑 <a href="https://www.notion.so/Resume-9ecff6f108f746fca5c0b9ed0716ec29">Resume(Notion)</a>
 
-🚀 <a href="https://www.notion.so/Portfolio-f1d34fc1cb80452b87548ff066a5f1d3">Porfolio(Notion)</a>
+🚀 <a href="https://www.notion.so/Portfolio-df78394ff48143eca3b14d000ed950e1">Porfolio(Notion)</a>
 
 ☑ <a href="https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%ED%99%8D-48729920a/">LinkdIn</a>
 <!--
