@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-📑 <a href="https://exclusive-cloak-5e9.notion.site/Resume-9ecff6f108f746fca5c0b9ed0716ec29">Resume(Notion)</a>
+#📑 <a href="https://exclusive-cloak-5e9.notion.site/Resume-9ecff6f108f746fca5c0b9ed0716ec29">Resume(Notion)</a>
 
-🚀 <a href="https://exclusive-cloak-5e9.notion.site/Portfolio-df78394ff48143eca3b14d000ed950e1">Porfolio(Notion)</a>
+#🚀 <a href="https://exclusive-cloak-5e9.notion.site/Portfolio-df78394ff48143eca3b14d000ed950e1">Porfolio(Notion)</a>
 
 ☑ <a href="https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%ED%99%8D-48729920a/">LinkdIn</a>
 <!--
